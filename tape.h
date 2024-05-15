@@ -4,6 +4,7 @@
 #include <vector>
 #include "tape-abstract.h"
 #include "Delays.h"
+#include <string>
 
 class Tape : public TapeAbstract{
 public:

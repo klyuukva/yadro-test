@@ -2,9 +2,10 @@
 // Created by Maria on 08.05.2024.
 //
 
-#include <print>
+
 #include <fstream>
 #include <thread>
+#include <iterator>
 #include "tape.h"
 
 

@@ -2,6 +2,7 @@
 // Created by Maria on 13.05.2024.
 //
 
+#include <stdexcept>
 #include "Sorting.h"
 #include "utils.h"
 #include "CountsCollection.h"

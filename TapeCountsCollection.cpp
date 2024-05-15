@@ -2,6 +2,7 @@
 // Created by Maria on 13.05.2024.
 //
 
+#include <valarray>
 #include "TapeCountsCollection.h"
 
 void TapeCountsCollection::increment(const int &value) {

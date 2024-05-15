@@ -6,6 +6,7 @@
 #define YADRO_TEST_SORTING_H
 
 
+#include <cstdint>
 #include "tape.h"
 
 class Sorting {
